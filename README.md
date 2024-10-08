@@ -1,4 +1,4 @@
-# React Firebase Notes App
+# Scrimba React Firebase Notes App
 
 This project is a notes application built using React for the frontend and Firebase Firestore for data storage. Users can create, edit, and delete notes, and all changes are synced to Firestore. The app features a markdown editor for enhanced note formatting.
 
@@ -21,7 +21,8 @@ This project is a notes application built using React for the frontend and Fireb
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/React-Firebase-NotesApp.git
+   git clone https://github.com/YourUsername/Scrimba-React-Firebase-NotesApp.git
+   cd Scrimba-React-Firebase-NotesApp
    ```
 
 2. Install dependencies:
